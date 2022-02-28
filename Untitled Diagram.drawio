@@ -1,1 +1,236 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T07:26:37.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" version="16.6.4" etag="5gPAST9I3b6hmms_QFFv" type="github"><diagram id="FF3Il64A-Viv-37QaOJj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-28T08:35:39.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="P0tVGUpdCDjya4b3J8Wa" version="16.6.4" type="github">
+  <diagram id="FF3Il64A-Viv-37QaOJj" name="Page-1">
+    <mxGraphModel dx="1483" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="220" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jOV1x0W6D7lvnXY9Pf-7-7" target="jOV1x0W6D7lvnXY9Pf-7-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="305" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jOV1x0W6D7lvnXY9Pf-7-7" target="jOV1x0W6D7lvnXY9Pf-7-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="305" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-1" value="composition of card" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-2" value="prototype (proto)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="100" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-4" value="prototype of&amp;nbsp; card is derived fro m card properties including stats in this case stats done change" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-6" value="id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="115" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jOV1x0W6D7lvnXY9Pf-7-7" target="jOV1x0W6D7lvnXY9Pf-7-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="145" y="175" />
+              <mxPoint x="130" y="175" />
+              <mxPoint x="130" y="135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jOV1x0W6D7lvnXY9Pf-7-7" target="jOV1x0W6D7lvnXY9Pf-7-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="195" />
+              <mxPoint x="120" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jOV1x0W6D7lvnXY9Pf-7-7" target="jOV1x0W6D7lvnXY9Pf-7-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="jOV1x0W6D7lvnXY9Pf-7-7" target="jOV1x0W6D7lvnXY9Pf-7-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-10" value="tribe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="175" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-11" value="health" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="225" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-13" value="rarity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="175" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-14" value="god" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="115" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-15" value="mana" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="235" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-16" value="attack" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="285" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-17" value="spell" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="285" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jOV1x0W6D7lvnXY9Pf-7-7" target="jOV1x0W6D7lvnXY9Pf-7-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="195" />
+              <mxPoint x="170" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jOV1x0W6D7lvnXY9Pf-7-7" target="jOV1x0W6D7lvnXY9Pf-7-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="175" />
+              <mxPoint x="160" y="175" />
+              <mxPoint x="160" y="135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-7" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="195" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-28" value="card" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.008;exitY=0.181;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jOV1x0W6D7lvnXY9Pf-7-26" target="jOV1x0W6D7lvnXY9Pf-7-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="290" as="sourcePoint" />
+            <mxPoint x="500" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-30" value="they have already a known number of prototypes because they have known number of cards with properties" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="420" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-32" value="their rarity of a card is a property in and of itself and is stored on the blockchain as a property of a proto" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="495" width="190" height="90" as="geometry" />
+        </mxCell>
+        <UserObject label="https://etherscan.io/token/0x6ebeaf8e8e946f0716e6533a6f2cefc83f60e8ab#readContract" link="https://etherscan.io/token/0x6ebeaf8e8e946f0716e6533a6f2cefc83f60e8ab#readContract" id="jOV1x0W6D7lvnXY9Pf-7-34">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="60" y="650" width="500" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="https://www.reddit.com/r/GodsUnchained/comments/91o0pp/how_to_check_pack_history_and_card_purity_other/" link="https://www.reddit.com/r/GodsUnchained/comments/91o0pp/how_to_check_pack_history_and_card_purity_other/" id="jOV1x0W6D7lvnXY9Pf-7-35">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="60" y="690" width="550" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="https://hackernoon.com/uncovering-information-hidden-in-the-smart-contracts-of-gods-unchained-755cc057974a" link="https://hackernoon.com/uncovering-information-hidden-in-the-smart-contracts-of-gods-unchained-755cc057974a" id="jOV1x0W6D7lvnXY9Pf-7-36">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="60" y="740" width="610" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jOV1x0W6D7lvnXY9Pf-7-37" target="jOV1x0W6D7lvnXY9Pf-7-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-37" value="buyPack" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="85" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jOV1x0W6D7lvnXY9Pf-7-39" target="jOV1x0W6D7lvnXY9Pf-7-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-39" value="user" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="212.5" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jOV1x0W6D7lvnXY9Pf-7-45" target="jOV1x0W6D7lvnXY9Pf-7-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-45" value="randomly select proto + randomly select rarity&lt;br&gt;for each card" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="570" y="200" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jOV1x0W6D7lvnXY9Pf-7-47" target="jOV1x0W6D7lvnXY9Pf-7-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-47" value="randomly select proto + randomly select rarity&lt;br&gt;for each proto" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="720" y="200" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jOV1x0W6D7lvnXY9Pf-7-49" target="jOV1x0W6D7lvnXY9Pf-7-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-49" value="store proto =&amp;gt; user onchain" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="860" y="200" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jOV1x0W6D7lvnXY9Pf-7-51" target="jOV1x0W6D7lvnXY9Pf-7-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-51" value="revealCards" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="200" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jOV1x0W6D7lvnXY9Pf-7-53" target="jOV1x0W6D7lvnXY9Pf-7-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-53" value="mint(user, proto)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1151" y="200" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-55" value="stop" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="205" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-57" value="note that their are other properiets&amp;nbsp; but out of the scope of this explanation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="580" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jOV1x0W6D7lvnXY9Pf-7-59" target="jOV1x0W6D7lvnXY9Pf-7-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-59" value="forgeNewCard&lt;br&gt;(# proto)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="440" y="400" width="85" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jOV1x0W6D7lvnXY9Pf-7-61" target="jOV1x0W6D7lvnXY9Pf-7-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-61" value="user" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="412.5" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jOV1x0W6D7lvnXY9Pf-7-63" target="jOV1x0W6D7lvnXY9Pf-7-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-63" value="burn&lt;span&gt;(proto)&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="570" y="400" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jOV1x0W6D7lvnXY9Pf-7-65" target="jOV1x0W6D7lvnXY9Pf-7-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-65" value="choose&amp;nbsp;&lt;br&gt;new rarity" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="720" y="400" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jOV1x0W6D7lvnXY9Pf-7-67" target="jOV1x0W6D7lvnXY9Pf-7-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-67" value="create new card with the same proto but different rarity" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="397.5" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="jOV1x0W6D7lvnXY9Pf-7-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1241" y="445" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-72" value="stop" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="405" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-73" value="craft card" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="330" y="155" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-74" value="forge (assumption)" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="330" y="350" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jOV1x0W6D7lvnXY9Pf-7-76" target="jOV1x0W6D7lvnXY9Pf-7-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-76" value="updateCard&lt;br&gt;(proto, rarity)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="870" y="400" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jOV1x0W6D7lvnXY9Pf-7-80" value="mint(user, proto)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1151" y="400" width="90" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
